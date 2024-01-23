@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+header div, a {
+    display: inline;
+    color: gray;
+    font-size: 16px;
+    margin: 200px;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;  
+}
+
+header p {
+    display: inline;
+    color: white;
+    font-family: 'Prata', serif;
+    font-size: 18px;
+}
+
+header div a {
+    margin: 0 15px;
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+
+}
+
+.header_1 {
+    display: inline;
+    margin: 0px 0 0 142px;
+    position: relative;
+    top: 52px;
+}
+
+#body_1 {
+    background: black;
+    height: 140vh;
+}
+
+#in {
+    margin: 0;
+    border: 5px solid rgb(255, 234, 0);
+    background: rgb(255, 234, 0);
+    padding: 12px 15px;
+    font-family: 'Prata', serif;
+}
+
+#in a {
+    color: black;
+    font-family: 'Inter', sans-serif;
+}
+
+#text h1 {
+    color: white;
+    font-size: 56px;
+    font-family: 'Prata', serif;
+}
+
+#text p {
+    color: white;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;  
+    margin: 15px 0;
+}
+
+#main_1 {
+    margin: 145px 0 0 142px;
+}
+
+
+#images img {
+    height: 245px;
+
+}
+
+.image_2 {
+    margin-left: 150px;
+}
+
+#logos {
+    margin: 28px 0;
+}
+
+#logos img {
+    margin-left: 60px;
+}
+
+#sub_2 p {
+    color: white;
+}
+
+#sub_1 {
+    display: inline-block;
+}
+
+#sub_1 h1 {
+    font-size: 38px;
+    margin: 16px 0 15px;
+}
+
+#sub_1 p {
+    color: white;
+    font-size: 20px;
+    max-width: 415px;
+}
+#sub_2 {
+    display: inline-block;
+    margin-left: 180px;
+}
+
+#sub_2 h1 {
+    font-size: 38px;
+    margin: 16px 0 15px;
+}
+
+#sub_2 p {
+    color: white;
+    font-size: 20px;
+    max-width: 415px;
+}
+
+#sub_T {
+    color: white;
+    display: flex;
+    font-family: 'Inter', sans-serif;  
+} 
+
+
+#body_2 {
+    background: #3c3c3c;
+    height: 80vh;
+    display: flex;
+    font-family: 'Inter', sans-serif; 
+}
+
+
+#text_3  h1{
+    font-size: 56px;
+    max-width: 715px;
+    font-family: 'Prata', serif;
+}
+
+#text_3 p {
+    font-size: 24px;
+    max-width: 562px;
+    margin: 45px 0 40px;
+}
+
+#text_3 {
+    display: inline-block;
+    margin: 0 0 0 142px;
+    color: white;
+}
+
+#sub_3 {
+    margin: 0;
+}
+
+#text_4 {
+    display: inline-block;
+    font-size: 24px;
+    max-width: 562px;
+    color: white;
+}
+
+.sub_4 {
+    margin: 56px 0 15px;
+}
+
+
+#text_4 p {
+    margin-bottom: 15px;
+}
+
+#body_3 {
+    background: black;
+    height: 60vh;
+}
+
+
+#main_B3 {
+    position: relative;
+    top: 100px;
+    left: 140px;
+    font-family: 'Inter', sans-serif; 
+    color: white;
+    max-width: 883px;
+}
+
+
+#main_B3 h1 {
+    font-size: 45px;
+    font-family: 'Prata', serif;
+}
+
+#main_B3 p {
+    font-size: 26px;
+    margin-bottom: 35px;
+    max-width: 555px;
+}
+
+#main_B3 a {
+    border: 5px solid rgb(255, 234, 0);
+    background: rgb(255, 234, 0);
+    color: black;
+    padding: 12px 15px;
+    font-size: 20px;
+    font-family: 'Prata', serif;
+}
+
+footer {
+    height: 8vh;
+    background: #3c3c3c;
+}
+
+
+#image {
+    display: flex;
+}
+
+footer p {
+    color: white;
+    margin: 15px 35px;
+    font-family: 'Inter', sans-serif; 
+}
+
+#social {
+    position: absolute;
+    right: 0;
+    margin: 15px 95px;
+}
